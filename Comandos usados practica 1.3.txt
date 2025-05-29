@@ -1,0 +1,26 @@
+sudo adduser Robert
+
+sudo usermod -aG sudo Robert
+
+
+
+sudo groupadd guest
+
+sudo adduser invitado
+
+sudo usermod -aG guest invitado
+
+
+
+sudo deluser invitado
+
+sudo groupdel guest
+
+
+getent passwd robert 
+
+getent group guest 
+
+
+
+

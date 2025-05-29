@@ -1,0 +1,21 @@
+mkdir
+
+cd
+
+touch
+
+vi
+
+cat
+
+chmod -u -g -o
+
+chmod +u +g +o
+
+chmod a+
+
+chmod a-
+
+mv ../
+
+clear
